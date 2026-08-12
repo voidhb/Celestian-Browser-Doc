@@ -169,4 +169,4 @@ O instalador será gerado na pasta `dist/`.
 
 ## Desenvolvedor
 
-Projeto desenvolvido por **Inside**.
+Projeto desenvolvido por **Void**.
